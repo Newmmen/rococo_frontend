@@ -1,6 +1,6 @@
 
 
-#### 1. Обнови зависимости и запускай фронт Rococо:
+#### Обнови зависимости и запускай фронт Rococо:
 
 ```posh
 Dmitriis-MacBook-Pro rococo % cd rococo-client
